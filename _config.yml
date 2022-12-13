@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Guilherme S. Vicinansa"
-  avatar           : "profile.png"
+  avatar           : "20221202_183132.jpg"
   bio              : 
   location         : "Urbana, Illinois, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "gs16@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Vicinansa"
+  github           : #"https://github.com/Vicinansa"
   google_plus      :
   keybase          :
   instagram        :
