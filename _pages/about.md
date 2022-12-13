@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me
+
 I’m a fifth year PhD student at UIUC under <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  working on control and estimation with finite data-rate. Previously, I worked with <a href="https://scholar.google.fr/citations?user=bHfxlykAAAAJ&hl=en">Professor Paulo Sérgio Pereira da Silva</a> on differential algebraic methods in control and estimation.
 
 My research interests are:
