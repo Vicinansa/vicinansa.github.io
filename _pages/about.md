@@ -30,7 +30,7 @@ Some applications of these topics are
 
 **University of Illinois Urbana-Champaign (Teaching Assistant)**
 
-- Optimum Control Systems (ECE 553)    Fall 2020, Spring 2022
+- Optimum Control Systems (ECE 553)    Fall 2020, Spring 2022, Spring 2023
 
 - Nonlinear and Adaptive Control (ECE 517) Fall 2019, Fall 2021, Fall 2022
       
@@ -47,6 +47,8 @@ Some applications of these topics are
 
 
 # Publications 
+
+[Report: Controllability with a finite data-rate of switched linear systems](./_publications/Controllability with a finite data-rate of switched linear_Report.pdf) (with D. Liberzon).
 
 Estimation Entropy, Lyapunov Exponents, and Quantizer Design for Switched Linear Systems (with D. Liberzon), *SIAM Journal on Control and Optimization*, to appear   
 
