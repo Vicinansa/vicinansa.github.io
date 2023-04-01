@@ -48,7 +48,7 @@ Some applications of these topics are
 
 # Publications 
 
-[Report: Controllability with a finite data-rate of switched linear systems](./_publications/Controllability with a finite data-rate of switched linear_Report.pdf) (with D. Liberzon).
+[Report: Controllability with a finite data-rate of switched linear systems](./_publications/CDC2023Report.pdf) (with D. Liberzon).
 
 Estimation Entropy, Lyapunov Exponents, and Quantizer Design for Switched Linear Systems (with D. Liberzon), *SIAM Journal on Control and Optimization*, to appear   
 
