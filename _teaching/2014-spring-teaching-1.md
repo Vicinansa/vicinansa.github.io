@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience at the University of Illinois Urbana-Champaign"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate-level course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Illinois, Department of Electrical & Computer Engineering"
 date: 2014-01-01
-location: "City, Country"
+location: "Urbana, Illinois, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
