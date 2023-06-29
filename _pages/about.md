@@ -7,23 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I’m a fifth year PhD student at UIUC under <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  working on control and estimation with finite data-rate. Previously, I worked with <a href="https://scholar.google.fr/citations?user=bHfxlykAAAAJ&hl=en">Professor Paulo Sérgio Pereira da Silva</a> on differential algebraic methods in control and estimation.
+I recently concluded my PhD studies at UIUC under <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  working on control and estimation with finite data-rate. Previously, I concluded my master's studies under <a href="https://scholar.google.fr/citations?user=bHfxlykAAAAJ&hl=en">Professor Paulo Sérgio Pereira da Silva</a> and <a href="https://www.researchgate.net/profile/Claudio-Garcia-12">Professor Claudio Garcia</a> on differential algebraic methods in control and estimation.
 
 My research interests are:
  - dynamical systems
+ - control and estimation with finite data-rate
+ - information theory
  - switched and hybrid systems
  - nonlinear estimation and control
- - control and estimation with finite data-rate
  - differential algebraic methods in estimation and control
- - control of quantum systems
 
-Some applications of these topics are
+Some applications of these topics that interest me are
  - robotics
  - numerical methods
  - signal processing
  - control over communication networks
- - quantum technologies
  
 
 # Teaching Experience
