@@ -48,10 +48,10 @@ Some applications of these topics that interest me are
 
 [Report: Controllability with a finite data-rate of switched linear systems](./_publications/CDC2023Report.pdf) (with D. Liberzon).
 
-Estimation Entropy, Lyapunov Exponents, and Quantizer Design for Switched Linear Systems (with D. Liberzon), *SIAM Journal on Control and Optimization*, to appear   
+<a href="https://epubs.siam.org/doi/10.1137/21M1411871">Estimation Entropy, Lyapunov Exponents, and Quantizer Design for Switched Linear Systems</a> (with D. Liberzon), *SIAM Journal on Control and Optimization*, to appear   
 
 
-Controllability of Linear Time-Varying Systems with Quantized Controls and Finite Data-Rate (with D. Liberzon) , in Proceedings of the *61st IEEE Conference on Decision and Control*, Cancún, Mexico, Dec 2022, pp. 3669-3674.
+<a href ="https://ieeexplore.ieee.org/document/9992626">Controllability of Linear Time-Varying Systems with Quantized Controls and Finite Data-Rate</a> (with D. Liberzon), in Proceedings of the *61st IEEE Conference on Decision and Control*, Cancún, Mexico, Dec 2022, pp. 3669-3674.
     
 <a href ="https://dl.acm.org/doi/10.1145/3447928.3456645">Quantizer Design for Linear Switched Systems with Minimal Data-Rate</a> (with D. Liberzon), in Proceedings of the *24th ACM International Conference on Hybrid Systems: Computation and Control* (HSCC 2021), Nashville, TN (online), May 2021.
 
