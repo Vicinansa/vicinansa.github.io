@@ -11,18 +11,19 @@ I am currently a Research Fellow at the University of Melbourne under the superv
 I recently concluded my PhD studies at UIUC under the supervision of <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  on control and estimation with finite data-rate. Previously, I did my master's studies under <a href="https://scholar.google.fr/citations?user=bHfxlykAAAAJ&hl=en">Professor Paulo Sérgio Pereira da Silva</a> and <a href="https://www.researchgate.net/profile/Claudio-Garcia-12">Professor Claudio Garcia</a> on differential algebraic methods in control and estimation.
 
 My research interests are:
- - dynamical systems
  - control and estimation with finite data-rate
  - information theory
+ - dynamical systems and chaos
  - switched and hybrid systems
  - nonlinear estimation and control
  - differential algebraic methods in estimation and control
 
 Some applications of these topics that interest me are
- - robotics
+ - quantized control and estimation
  - numerical methods
- - signal processing
+ - signal processing with data-rate limitations
  - control over communication networks
+ - power systems control and estimation
  
 
 # Teaching Experience
@@ -47,7 +48,7 @@ Some applications of these topics that interest me are
 
 # Publications 
 
-
+<a href="https://ieeexplore.ieee.org/document/10384053">Controllability with a finite data-rate of switched linear systems (with D. Liberzon), in Proceedings of the *62nd IEEE Conference on Decision and Control*, Singapore, Dec 2023, pp. 3925-3930.
 
 <a href="https://epubs.siam.org/doi/10.1137/21M1411871">Estimation Entropy, Lyapunov Exponents, and Quantizer Design for Switched Linear Systems</a> (with D. Liberzon), *SIAM Journal on Control and Optimization*, vol. 61, no. 1, pp. 198-224, 2023. 
 
