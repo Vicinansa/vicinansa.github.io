@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Fellow at the University of Melbourne under the supervision of <a href="https://findanexpert.unimelb.edu.au/profile/474-girish-nair"> Professor Girish Nair</a>.
-I recently concluded my PhD studies at UIUC under the supervision of <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  on control and estimation with finite data-rate. Previously, I did my master's studies under <a href="https://scholar.google.fr/citations?user=bHfxlykAAAAJ&hl=en">Professor Paulo Sérgio Pereira da Silva</a> and <a href="https://www.researchgate.net/profile/Claudio-Garcia-12">Professor Claudio Garcia</a> on differential algebraic methods in control and estimation.
+I am currently a Research Fellow at The University of Melbourne under the supervision of <a href="https://findanexpert.unimelb.edu.au/profile/474-girish-nair"> Professor Girish Nair</a>.
+I recently concluded my PhD studies at the University of Illinois Urbana-Champaign (UIUC) under the supervision of <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  on control and estimation with finite data-rate. Previously, I did my master's studies under <a href="https://scholar.google.fr/citations?user=bHfxlykAAAAJ&hl=en">Professor Paulo Sérgio Pereira da Silva</a> and <a href="https://www.researchgate.net/profile/Claudio-Garcia-12">Professor Claudio Garcia</a> on differential algebraic methods in control and estimation at the University of São Paulo.
 
 My research interests are:
  - control and estimation with finite data-rate
