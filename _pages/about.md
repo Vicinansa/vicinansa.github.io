@@ -48,7 +48,7 @@ Some applications of these topics that interest me are
 
 # Publications 
 
-<a href="https://ieeexplore.ieee.org/document/10384053">Controllability with a finite data-rate of switched linear systems (with D. Liberzon), in Proceedings of the *62nd IEEE Conference on Decision and Control*, Singapore, Dec 2023, pp. 3925-3930. 
+<a href="https://ieeexplore.ieee.org/document/10384053"> Controllability with a finite data-rate of switched linear systems (with D. Liberzon), in Proceedings of the *62nd IEEE Conference on Decision and Control*, Singapore, Dec 2023, pp. 3925-3930. 
 
 <a href="https://epubs.siam.org/doi/10.1137/21M1411871">Estimation Entropy, Lyapunov Exponents, and Quantizer Design for Switched Linear Systems</a> (with D. Liberzon), *SIAM Journal on Control and Optimization*, vol. 61, no. 1, pp. 198-224, 2023. 
 
