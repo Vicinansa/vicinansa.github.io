@@ -7,25 +7,29 @@ redirect_from:
   - /about.html
 ---
 I am currently a Research Fellow at The University of Melbourne under the supervision of <a href="https://findanexpert.unimelb.edu.au/profile/474-girish-nair"> Professor Girish Nair</a>.
-I recently concluded my PhD studies at the University of Illinois Urbana-Champaign (UIUC) under the supervision of <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  on control and estimation with finite data-rate. Previously, I did my master's studies under <a href="https://scholar.google.fr/citations?user=bHfxlykAAAAJ&hl=en">Professor Paulo Sérgio Pereira da Silva</a> and <a href="https://www.researchgate.net/profile/Claudio-Garcia-12">Professor Claudio Garcia</a> on differential algebraic methods in control and estimation at the University of São Paulo.
+I concluded my PhD studies at the University of Illinois Urbana-Champaign (UIUC) under the supervision of <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  on control and estimation with finite data-rate in 2023. 
 
 My research interests are:
- - control and estimation with finite data-rate
- - information theory
- - dynamical systems and chaos
- - switched and hybrid systems
- - nonlinear estimation and control
- - differential algebraic methods in estimation and control
+ - Control and estimation with finite data-rate
+ - Information theory
+ - Dynamical systems and chaos
+ - Stochastic dynamics
+ - Hybrid systems
+ - Nonlinear estimation and control
 
 Some applications of these topics that interest me are
- - quantized control and estimation
- - numerical methods
- - signal processing with data-rate limitations
- - control over communication networks
- - power systems control and estimation
+ - Quantized control and estimation
+ - Fundamental limitations on machine learning algorithms 
+ - Numerical methods
+ - Signal processing with data-rate limitations
+ - Control and estimation over communication networks
  
 
 # Teaching Experience
+
+**The University of Melbourne (Instructor)**
+
+- Control Systems (ELEN90055)   Second semester 2024
 
 **University of Illinois Urbana-Champaign (Teaching Assistant)**
 
@@ -46,6 +50,8 @@ Some applications of these topics that interest me are
 
 
 # Publications 
+
+<a href="https://www.sciencedirect.com/science/article/pii/S2405896324019499"> Minimum Data-Rate for Emulating a Linear Feedback System</a> (with G. Nair),  *IFAC-PapersOnLine*, vol. 58, no. 17, pp. 350–355, 2024. 
 
 <a href="https://ieeexplore.ieee.org/document/10384053"> Controllability with a finite data-rate of switched linear systems</a> (with D. Liberzon), in Proceedings of the *62nd IEEE Conference on Decision and Control*, Singapore, Dec 2023, pp. 3925-3930. 
 
