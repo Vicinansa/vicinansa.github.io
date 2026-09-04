@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+Towards a Data-Rate Theorem for State Estimation with Guaranteed Accuracy in Bounded-Noise Environments (with G. Nair), *to appear*, in Proceedings of the *65th IEEE Conference on Decision and Control*, Honolulu, Dec 2026.
 
 <a href="https://www.sciencedirect.com/science/article/pii/S2405896324019499"> Minimum Data-Rate for Emulating a Linear Feedback System</a> (with G. Nair),  *IFAC-PapersOnLine*, vol. 58, no. 17, pp. 350–355, 2024. 
 
