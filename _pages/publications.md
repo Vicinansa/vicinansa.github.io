@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-# Publications 
-
 <a href="https://www.sciencedirect.com/science/article/pii/S2405896324019499"> Minimum Data-Rate for Emulating a Linear Feedback System</a> (with G. Nair),  *IFAC-PapersOnLine*, vol. 58, no. 17, pp. 350–355, 2024. 
 
 <a href="https://ieeexplore.ieee.org/document/10384053"> Controllability with a finite data-rate of switched linear systems</a> (with D. Liberzon), in Proceedings of the *62nd IEEE Conference on Decision and Control*, Singapore, Dec 2023, pp. 3925-3930. 
