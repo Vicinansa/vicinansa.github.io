@@ -9,8 +9,7 @@ author_profile: true
 
 ### University of São Paulo (Assistant Professor)
 
-- **Introduction to Robust Control Systems Design (PTC3470)** — Second semester 2026
-
+- **[Introduction to Robust Control Systems Design (PTC3470)](https://edisciplinas.usp.br/course/view.php?id=144344)** — Second semester 2026
 ---
 
 ## Past Teaching
