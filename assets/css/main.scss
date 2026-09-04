@@ -2,7 +2,7 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
+ *   Minimal Mistakes Jekyll Theme
  *
  *  - Michael Rose
  *  - mademistakes.com
@@ -39,3 +39,19 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================
+   Custom Background & Layout Styles
+   ========================================== */
+
+/* Outer page background color */
+body {
+  background-color: #f8f9fa !important; /* Soft off-white / light grey */
+}
+
+/* Central content card (keeps text crisp white over the shaded outer background) */
+#main,
+.initial-content,
+.page__content {
+  background-color: #ffffff !important;
+}
