@@ -5,14 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching
+<h2 id="current-teaching">Current Teaching</h2>
 
 ### University of São Paulo (Assistant Professor)
 
 - **[Introduction to Robust Control Systems Design (PTC3470)](https://edisciplinas.usp.br/course/view.php?id=144344)** — Second semester 2026
+
 ---
 
-## Past Teaching
+<h2 id="past-teaching">Past Teaching</h2>
 
 ### The University of Melbourne (Instructor)
 
