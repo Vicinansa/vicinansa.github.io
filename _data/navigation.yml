@@ -1,11 +1,17 @@
-# main links
 main:
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/
+    children:
+      - title: "Current Teaching"
+        url: /teaching/#current-teaching
+      - title: "Past Teaching"
+        url: /teaching/#past-teaching
 
+  - title: "Thoughts"
+    url: /thoughts/
 
 # main links links
 #main:
