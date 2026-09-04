@@ -6,25 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Fellow at The University of Melbourne under the supervision of <a href="https://findanexpert.unimelb.edu.au/profile/474-girish-nair"> Professor Girish Nair</a>.
-I concluded my PhD studies at the University of Illinois Urbana-Champaign (UIUC) under the supervision of <a href="http://liberzon.csl.illinois.edu/">Professor Daniel Liberzon</a>  on control and estimation with finite data-rate in 2023. 
+I am currently an Assistant Professor at the University of São Paulo. Previously, I was a Research Fellow at The University of Melbourne working with [Professor Girish Nair](https://findanexpert.unimelb.edu.au/profile/474-girish-nair) (2023–2026). I completed my PhD at the University of Illinois Urbana-Champaign (UIUC) in 2023 under the supervision of [Professor Daniel Liberzon](http://liberzon.csl.illinois.edu/), focusing on control and estimation under finite data-rate constraints.
 
 My research interests are:
- - Control and estimation with finite data-rate
- - Information theory
- - Dynamical systems and chaos
- - Stochastic dynamics
+ - Control, estimation, and reinforcement learning with limited information
+ - Stochastic dynamical systems and their connections to control
  - Hybrid systems
- - Nonlinear estimation and control
 
-Some applications of these topics that interest me are
+Some applications of these topics that interest me include:
  - Quantized control and estimation
- - Fundamental limitations on machine learning algorithms 
- - Numerical methods
- - Signal processing with data-rate limitations
+ - Fundamental limitations of reinforcement learning algorithms 
+ - Interplay between optimal stochastic control and learning
  - Control and estimation over communication networks
- 
 
+{% comment %}
 # Teaching Experience
 
 **The University of Melbourne (Instructor)**
@@ -73,4 +68,4 @@ Control of Pneumatic Valves with Friction Using Algebraic Estimators (with C. Ga
 
 
 Discrete Barycenter Method for Direct Optimization (with D. Cólon and F. Pait), in Proceedings of the *XX Congresso Brasileiro de Automática* (CBA), Belo Horizonte, Brazil, Sep 2014
-        
+{% endcomment %}
