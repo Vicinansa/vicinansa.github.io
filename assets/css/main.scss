@@ -3,12 +3,7 @@
 
 /*
  *   Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+ */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -41,17 +36,16 @@
 @import "print";
 
 /* ==========================================
-   Custom Background & Layout Styles
+   Uniform Background Styling
    ========================================== */
 
-/* Outer page background color */
-body {
-  background-color: #f8f9fa !important; /* Soft off-white / light grey */
-}
-
-/* Central content card (keeps text crisp white over the shaded outer background) */
+/* Defines a single, seamless background color for the entire layout */
+body,
 #main,
 .initial-content,
-.page__content {
-  background-color: #ffffff !important;
+.page,
+.page__content,
+.archive,
+.sidebar {
+  background-color: #f8f9fa !important; /* Soft off-white / light grey */
 }
