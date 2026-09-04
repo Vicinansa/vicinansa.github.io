@@ -3,7 +3,12 @@
 
 /*
  *   Minimal Mistakes Jekyll Theme
- */
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -36,16 +41,23 @@
 @import "print";
 
 /* ==========================================
-   Uniform Background Styling
+   Seamless Background Styling
    ========================================== */
 
-/* Defines a single, seamless background color for the entire layout */
-body,
+/* Set outer page background color */
+body {
+  background-color: #f8f9fa !important;
+}
+
+/* Force all internal containers to be transparent so the gray background is seamless */
 #main,
 .initial-content,
 .page,
+.page__inner-wrap,
 .page__content,
 .archive,
-.sidebar {
-  background-color: #f8f9fa !important; /* Soft off-white / light grey */
+.sidebar,
+.sidebar.sticky,
+.author__urls-wrapper {
+  background-color: transparent !important;
 }
