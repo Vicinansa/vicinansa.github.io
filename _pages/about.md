@@ -10,11 +10,11 @@ I am currently an Assistant Professor at the University of São Paulo. Previousl
 
 My research interests are:
  - Control, estimation, and reinforcement learning with limited information
- - Stochastic dynamical systems and their connections to control
- - Hybrid systems
+ - Stochastic dynamical systems and their connections to control theory
+ - Hybrid systems and quantization
 
 Some applications of these topics that interest me include:
- - Quantized control and estimation
+ - Quantized control, estimation, and learning
  - Fundamental limitations of reinforcement learning algorithms 
  - Interplay between optimal stochastic control and learning
  - Control and estimation over communication networks
